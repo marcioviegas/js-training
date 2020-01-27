@@ -23,3 +23,9 @@ var test2 = {
 test();
 
 test2.example();
+
+// EXPECTED RESULT
+// A function: [object global]
+// Anonymous function inside a function on a object: [object global]
+// Anonymous function inside a function on a object with this passed as argument: [object Object]
+// Function inside a object: [object Object]
