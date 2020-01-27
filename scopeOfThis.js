@@ -24,7 +24,7 @@ test();
 
 test2.example();
 
-// EXPECTED RESULT
+// RESULT
 // A function: [object global]
 // Anonymous function inside a function on a object: [object global]
 // Anonymous function inside a function on a object with this passed as argument: [object Object]
